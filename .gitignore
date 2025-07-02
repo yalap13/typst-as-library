@@ -3,3 +3,8 @@ target/
 /target
 *.pdf
 *.svg
+
+# Test documentation using Sphinx
+.venv
+docs/_build
+docs/docs

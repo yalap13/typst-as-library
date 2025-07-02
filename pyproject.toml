@@ -1,0 +1,8 @@
+[project]
+name = "typst-as-library"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "sphinx>=8.2.3",
+    "sphinxcontrib-rust>=1.0.0",
+]
